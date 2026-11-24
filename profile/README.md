@@ -32,7 +32,7 @@ No proprietary headers, no mock APIs, no code changes required in your productio
 
 | Repository | Purpose |
 | :--- | :--- |
-| **[haknkayaa/VirtualDeviceSimulatorForEmbedded](https://github.com/haknkayaa/VirtualDeviceSimulatorForEmbedded)** | Core simulation runtime, deterministic scheduler, server daemon, Web UI, and CLI |
+| **[vds4e/vds4e](https://github.com/vds4e/vds4e)** | Core simulation runtime, deterministic scheduler, server daemon, Web UI, and CLI |
 | **[vds4e/devices](https://github.com/vds4e/devices)** | Official virtual device models (EEPROMs, NOR flash, sensor models, GPIO/UART peripherals) |
 | **[vds4e/adapters](https://github.com/vds4e/adapters)** | Host Linux ABI adapters (CUSE, PTY, TAP interfaces) |
 | **[vds4e/registry](https://github.com/vds4e/registry)** | Official device package index and automated OCI verification pipeline |
